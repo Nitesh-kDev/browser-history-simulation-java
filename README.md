@@ -10,7 +10,7 @@ A simple **console-based Java application** that copies how a real web browser h
 - Go back to the previous page
 - Go forward to the next page
 - Show the current page
-- Menu-driven console interface (easy to use)
+- Menu-driven console interface 
 
 ---
 
