@@ -71,7 +71,6 @@ java Main
 
 ## 🔮 Future Improvements
 
-- [ ] Add a GUI using JavaFX or Swing
 - [ ] Save history to a file so it persists after closing the app
 - [ ] Add a "search in history" feature
 - [ ] Convert to a Spring Boot REST API version
