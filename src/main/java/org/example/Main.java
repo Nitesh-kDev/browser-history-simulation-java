@@ -17,7 +17,7 @@ public class Main {
            System.out.println("4. Show Current Page");
            System.out.println("5. Exit");
 
-           System.out.println("Enter your choice: ");
+           System.out.println("Enter your choice to perform Simulation: ");
            int choice=scanner.nextInt();
            scanner.nextLine();
            switch(choice){
